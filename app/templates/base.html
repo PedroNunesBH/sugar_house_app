@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Site Oficial da Sugar House Confeitaria. Localizada em Belo Horizonte/MG.">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/base.css' %}">
+    <title>Sugar House</title>
+</head>
+<body>
+    <header>
+        <h1 class="main-title">Sugar House</h1>
+    </header>
+    <nav class="nav-container">
+        <ul class="nav-bar">
+            <li><a href="">Home</a></li>
+            <li><a href="">Cardápio</a></li>
+            <li><a href="{% url 'sobre_nos' %}">Sobre Nós</a></li>
+            <li><a href="">Contato</a></li>
+        </ul>
+    </nav>
+    <main>
+        {% block content %}
+        {% endblock %}
+    </main>
+</body>
+</html>

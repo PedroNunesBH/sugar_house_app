@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+}
+
+.main-title {
+    color: white;
+    text-align: center;
+}
+
+.nav-bar {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    background-color: white;
+}
+
+
+.main-div-about-us {
+    background-color: white;
+}
