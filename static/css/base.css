@@ -1,5 +1,7 @@
-body {
+html, body {
     background-color: pink;
+    height: 100%;
+    margin: 0;
 }
 
 .main-title {
@@ -13,4 +15,12 @@ body {
     gap: 40px;
     justify-content: center;
     background-color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.base-footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
 }
