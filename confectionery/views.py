@@ -13,3 +13,7 @@ class AboutUsView(TemplateView):
 class ContactView(FormView):
     template_name = "contact.html"
     form_class = ContactForm
+
+
+class MenuView(TemplateView):
+    template_name = "menu.html"
