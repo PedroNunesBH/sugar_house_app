@@ -1,5 +1,12 @@
 {% extends 'base.html' %}
 
+{% load static %}
+
+{% block styles %}
+    <link rel="stylesheet" type="text/css" href="{% static 'css/base.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'about_us.css' %}">
+{% endblock %}
+
 {% block content %}
     <div class="main-div-about-us">
         <h2 class="h2-title">A Doce Jornada da Sugar House: Uma História de Paixão e Talento</h2>
