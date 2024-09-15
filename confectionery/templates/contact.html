@@ -1,5 +1,12 @@
 {% extends 'base.html' %}
 
+{% load static %}
+
+{% block styles %}
+    <link rel="stylesheet" type="text/css" href="{% static 'css/base.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/contact.css' %}">
+{% endblock %}
+
 {% block content %}
     <h2 class="h2-title">Entre em Contato Conosco</h2>
     <form class="contact-form" method="post" action="">
