@@ -1,0 +1,35 @@
+.brigadeiros-img {
+    width: 100%;
+    height: auto; /* Mantém a proporção da imagem */
+    display: block; /* Remove o espaçamento embaixo da imagem */
+}
+
+.index-welcome-imgs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1px;
+}
+
+.welcome-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white; /* Cor do texto */
+    background: rgba(0, 0, 0, 0.3); /* Fundo com opacidade mais baixa */
+    padding: 20px;
+    border-radius: 8px; /* Opcional: arredondar os cantos do fundo */
+    text-align: center;
+    width: 80%; /* Ajuste conforme necessário */
+    font-size: 1.2em; /* Ajusta o tamanho da fonte para melhorar a legibilidade */
+    line-height: 1.4; /* Melhora a legibilidade com espaçamento entre linhas */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* Sombra mais leve para não destacar tanto */
+}
+
+.btn-index {
+    background-color: black;
+    color: white;
+    border: 5px solid black;
+    border-radius: 5px;
+    height: 40px;
+}

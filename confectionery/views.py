@@ -3,7 +3,7 @@ from django.views.generic import TemplateView, FormView
 from .forms import ContactForm
 
 class HomeView(TemplateView):
-    template_name = "base.html"
+    template_name = "index.html"
 
 
 class AboutUsView(TemplateView):

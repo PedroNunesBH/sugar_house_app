@@ -2,5 +2,19 @@
 
 {% load static %}
 
+{% block styles %}
+    <link rel="stylesheet" type="text/css" href="{% static 'css/base.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/index.css' %}">
+{% endblock %}
+
 {% block content %}
+    <div class="index-welcome-imgs">
+        <img src="../../static/images/brigadeiros.jpg" class="brigadeiros-img" alt="Descrição da Imagem">
+        <img src="../../static/images/festas.jpg" class="brigadeiros-img" alt="Descrição da Imagem">
+        <div class="welcome-text">
+            <h2>Produtos feitos com muito carinho e amor para sua família.</h2>
+            <p>Confira todos os nossos produtos em nosso Cardápio .</p>
+            <button type="submit" class="btn-index">Nosso Cardápio</button>
+        </div>
+    </div>
 {% endblock %}
