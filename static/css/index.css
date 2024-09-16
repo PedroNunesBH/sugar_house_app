@@ -33,3 +33,29 @@
     border-radius: 5px;
     height: 40px;
 }
+
+.btn-index:hover {
+    background-color: pink;
+    color: black; 
+    border-color: pink
+}
+
+.btn-index a {
+    text-decoration: none;
+    color: white;
+}
+
+.recommendations-title {
+    font-size: 2.5rem; /* Aumenta o tamanho da fonte para mais destaque */
+    color: #d62d77; /* Cor rosa vibrante para combinar com o tema de confeitaria */
+    text-align: center; /* Centraliza o texto */
+    margin-top: 30px; /* Maior margem superior para espaçamento */
+    margin-bottom: 30px; /* Maior margem inferior para espaçamento */
+    font-weight: bold; /* Torna o texto mais ousado */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Adiciona uma sombra de texto para profundidade */
+    letter-spacing: 1px; /* Adiciona espaçamento entre letras para uma aparência mais elegante */
+}
+
+.teste {
+    color: yellow;
+}
