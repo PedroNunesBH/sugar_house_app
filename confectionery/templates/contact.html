@@ -16,17 +16,8 @@
             <li><strong>Email:</strong> sugarhousebh@gmail.com</li>
             <li><strong>Telefone:</strong> (31) 97123-0711</li>
             <li><strong>Instagram:</strong> @sugarhousebh</li>
+            <button class="btn-wpp"><a href="https://wa.me/message/XBKDLHOWHD7NJ1">Whatsapp</a></button>
         </ul>
         <p>Estamos ansiosos para ouvir de você!</p>
-    </div>
-    <div class="text-div">
-        <h2>Preencha o formulário </h2>
-        <p>Coloque os seus dados corretamente e em breve entraremos em contato !<br>
-            Fique a vontade para deixar avaliações, sugestões e o achar importante que saibamos.</p>
-
-        <form class="contact-form" method="post" action="">
-            {% csrf_token %}
-                {{ form.as_p }}
-            </form>
     </div>
 {% endblock %}
