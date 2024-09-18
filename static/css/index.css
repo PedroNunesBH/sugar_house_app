@@ -27,9 +27,9 @@
 }
 
 .btn-index {
-    background-color: black;
+    background-color: green;
     color: white;
-    border: 5px solid black;
+    border: 5px solid green;
     border-radius: 5px;
     height: 40px;
 }
@@ -64,6 +64,6 @@
 
 .recommendations-img {
     width: 100%;
-    height: 650px;
+    height: 500px;
     display: block; /* Remove o espaçamento embaixo da imagem */
 }

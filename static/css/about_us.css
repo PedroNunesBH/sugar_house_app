@@ -5,3 +5,7 @@
 .main-div-about-us {
     background-color: pink;
 }
+
+.main-div-about-us p {
+    margin: 20px;
+}
