@@ -7,9 +7,9 @@
 ![GIT Badge](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)
 
 
-O projeto Sugar House WebSite foi desenvolvido como parte do Laboratório de Extensão obrigatório da Estácio, na disciplina de Desenvolvimento Rápido de Aplicações em Python. Este laboratório tem como objetivo proporcionar uma experiência prática que complementa os conhecimentos teóricos adquiridos durante o curso, promovendo a aplicação de conceitos de desenvolvimento python em um cenário real.
+O projeto Sugar House WebSite foi desenvolvido como parte do Laboratório de Extensão obrigatório da Estácio, na disciplina de Desenvolvimento Rápido de Aplicações em Python. Este laboratório tem como objetivo proporcionar uma experiência prática que complementa os conhecimentos teóricos adquiridos durante o curso, promovendo a aplicação de conceitos de desenvolvimento python utilizando a metodologia RAD em um cenário real.
 
-Através dessa atividade, buscamos não apenas consolidar o aprendizado acadêmico, mas também engajar a comunidade local em um projeto de valor social. Para isso, estabelecemos uma parceria com a confeitaria Sugar House, localizada em Belo Horizonte, Minas Gerais. A colaboração com esta empresa permitiu o desenvolvimento de uma solução personalizada que atende às necessidades específicas do negócio, ao mesmo tempo em que proporciona uma experiência prática enriquecedora para os envolvidos no projeto.
+Através dessa atividade, buscamos não apenas consolidar o aprendizado acadêmico, mas também engajar a comunidade local em um projeto de valor social. Para isso, foi estabelecida uma parceria com a confeitaria Sugar House, localizada em Belo Horizonte, Minas Gerais. A colaboração com esta empresa permitiu o desenvolvimento de uma solução personalizada que atende às necessidades específicas do negócio, ao mesmo tempo em que proporcionou uma experiência prática enriquecedora.
 
 
 ##  Índice
@@ -39,7 +39,7 @@ Finalizado ✅
 ## Funcionalidades
 1. **Página Inicial**: Visão geral sobre a confeitaria e avaliações de clientes.
 2. **Cardápio**: Listagem detalhada dos produtos disponíveis com descrições e preços
-3. **Contato**: Formulário para que clientes possam entrar em contato com a confeitaria.
+3. **Contato**: Informações de contato/canais oficiais da confeitaria.
 4. **Sobre Nós**: Um pouco mais sobre a história da confeitaria.
 
 
