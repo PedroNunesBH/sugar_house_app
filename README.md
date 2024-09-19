@@ -12,19 +12,18 @@ O projeto Sugar House WebSite foi desenvolvido como parte do Laboratório de Ext
 Através dessa atividade, buscamos não apenas consolidar o aprendizado acadêmico, mas também engajar a comunidade local em um projeto de valor social. Para isso, foi estabelecida uma parceria com a confeitaria Sugar House, localizada em Belo Horizonte, Minas Gerais. A colaboração com esta empresa permitiu o desenvolvimento de uma solução personalizada que atende às necessidades específicas do negócio, ao mesmo tempo em que proporcionou uma experiência prática enriquecedora.
 
 
-##  Índice
-- [Índice](#-índice)
-- [ Status do Projeto](#-status-do-projeto)
-- [Layout](#-layout)
-  - [Web](#web)
-- [Funcionalidades](#-funcionalidades)
-- [Como Rodar A Aplicação](#-como-rodar-a-aplicação)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Estrutura de Diretórios](#-estrutura-de-diretórios)
-- [Padrões Utilizados](#-padrões-utilizados)
-- [Metodologia de Desenvolvimento](#-metodologia-de-desenvolvimento)
-- [Desenvolvedor](#-desenvolvedor)
-- [Licença](#-licença)
+## Índice
+- [Índice](#índice)
+- [Status do Projeto](#status-do-projeto)
+- [Layout](#layout)
+- [Funcionalidades](#funcionalidades)
+- [Como Rodar A Aplicação](#como-rodar-a-aplicação)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Estrutura de Diretórios](#estrutura-de-diretórios)
+- [Padrões Utilizados](#padrões-utilizados)
+- [Metodologia de Desenvolvimento](#metodologia-de-desenvolvimento)
+- [Desenvolvedor](#desenvolvedor)
+- [Licença](#licença)
 
 ## Status do Projeto
 Finalizado ✅
@@ -32,7 +31,22 @@ Finalizado ✅
 
 ## Layout
 
-### Web
+**Index**
+
+<img src="./docs/images/index.png" alt="Página Inicial 1" width="400"/>  <img src="./docs/images/index_2.png" alt="Página Inicial 2" width="400"/>
+
+**Cardápio**
+
+<img src="./docs/images/cardapio_1.png" alt="Página do Cardápio 1" width="400"/>  <img src="./docs/images/cardapio_2.png" alt="Página do Cardápio 2" width="400"/>
+
+
+**Sobre Nós**
+
+<img src="./docs/images/sobre_nos_1.png" alt="Página Sobre Nós" width="400"/>
+
+**Contato**
+
+<img src="./docs/images/contato.png" alt="Página de Contato" width="400"/>
 
 
 
@@ -48,7 +62,7 @@ Finalizado ✅
 
 1. Clone o repositório usando o comando:
     
-    git clone https://github.com/SeuUsuario/SeuRepositorio.git
+    git clone https://github.com/PedroNunesBH/sugar_house_app.git
 
 2. Navegue até o diretório do projeto
 
@@ -118,5 +132,5 @@ Rapid Application Development (RAD) é uma abordagem de desenvolvimento de softw
 ## Desenvolvedor
 - [Pedro Henrique Silveira Nunes](https://github.com/PedroNunesBH)
 
-## 📝 Licença
+##  Licença
 Este projeto está licenciado sob uma licença proprietária. Todos os direitos são reservados ao proprietário do projeto. O uso, modificação ou distribuição deste código não é permitido sem a devida autorização.
